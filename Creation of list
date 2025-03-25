@@ -1,0 +1,7 @@
+b=[1,4,10,18,4,"sai"] #1
+print(b) 
+
+a="sai"
+print(type(a)) 
+
+
